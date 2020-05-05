@@ -1,0 +1,44 @@
+[
+    {
+        "text": "a",
+        "decisions": [
+            {
+                "text": "aa"
+            },
+            {
+                "text": "ab"
+            },
+            {
+                "text": "ac"
+            }
+        ]
+    },
+    {
+        "text": "b",
+        "decisions": [
+            {
+                "text": "ba"
+            },
+            {
+                "text": "bb"
+            },
+            {
+                "text": "bc"
+            }
+        ]
+    },
+    {
+        "text": "c",
+        "decisions": [
+            {
+                "text": "ca"
+            },
+            {
+                "text": "cb"
+            },
+            {
+                "text": "cc"
+            }
+        ]
+    }
+]
